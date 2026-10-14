@@ -8,7 +8,7 @@
 ## The Three Prompts
 
  1. Generic: told to simplify. 
- 2. Clones: also given clone data. 
+ 2. Clones: also given clone data (Type 1-4 clones). 
  3. Giga: also given Giga's analysis. 
 
 ## The solutions
