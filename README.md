@@ -1,6 +1,6 @@
 # giga-bench
 
-`delivery`: a durable event store in JavaScript (`original/`, written by DeepSeek V4.1 Flash over requests 1-4), and
+`delivery`: a durable event store in JavaScript (`original/`, written by DeepSeek over requests 1-4), and
 Gemini 4 Argon's simplification of it under three prompts. Each Argon file is the run nearest its arm's median over
 5 seeds; none fails a check the original passes.
 
